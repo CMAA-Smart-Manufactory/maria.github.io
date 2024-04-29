@@ -24,16 +24,35 @@ body {
   p {
     line-height: 1.6;
   }
+
+  table {
+    display: table;
+    border-collapse: collapse;
+    font-size: 16px; /* Tamanho da fonte */
+    overflow-x: auto; /* Adiciona rolagem horizontal quando necessário */
+  }
   
-  /* Estilos de Título */
+  table th,
+  table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }  
+
+  table th {
+    background-color: #f2f2f2;
+  }  
+
+  @media screen and (max-width: 600px) {
+    table {
+      font-size: 14px; 
+    }
+  } 
   
   h1 {
     text-align: center;
     font-size: 24px;
   }
-  
-  
-  /* Estilos Responsivos */
   
   @media (max-width: 768px) {
     h1 {
