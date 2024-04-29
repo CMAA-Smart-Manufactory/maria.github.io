@@ -1,6 +1,6 @@
 # Política de Privacidade - MARIA CMAA
 
-Este é um simples aplicativo de política de privacidade para MARIA CMAA, que descreve como são coletadas, usadas e compartilhadas as informações pessoais dos usuários ao usar o aplicativo.
+Este é um simples aplicativo `Web` de política de privacidade para MARIA CMAA, que descreve como são coletadas, usadas e compartilhadas as informações pessoais dos usuários ao usar o aplicativo.
 
 ## Conteúdo
 
